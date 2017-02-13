@@ -1,0 +1,15 @@
+{
+  "name": "bank-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Davide Fiorello <davide@codeflyer.com> (http://github.com/codeflyer/)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jest": "^18.1.0"
+  }
+}
